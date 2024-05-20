@@ -32,7 +32,7 @@ You have a MySQL database running
 **Installation**
 
 1)Clone the repository
-git clone https://github.com/your-username/HRS-HotelBooking.git
+git clone https://github.com/khushbooBaghel05/hrs-hotelBooking.git
 cd HRS-HotelBooking
 
 2).Configure the database
